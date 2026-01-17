@@ -1,1 +1,12 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+UserSettings/
+
+# OS files
+.DS_Store
+Thumbs.db
 

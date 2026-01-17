@@ -51,5 +51,5 @@ ProjectSettings/
 
 ---
 
-## 🎥 Gameplay Demo
-Gameplay video will be added here.
+## Gameplay Demo
+https://youtu.be/_-0zza_GCz8
